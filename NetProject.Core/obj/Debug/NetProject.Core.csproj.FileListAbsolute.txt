@@ -1,0 +1,14 @@
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Core\bin\Debug\NetProject.Core.dll.config
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Core\bin\Debug\NetProject.Core.dll
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Core\bin\Debug\NetProject.Core.pdb
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Core\bin\Debug\EntityFramework.dll
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Core\bin\Debug\NetProject.Domain.dll
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Core\bin\Debug\NetProject.Domain.pdb
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Core\bin\Debug\EntityFramework.xml
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Core\obj\Debug\NetProject.Core.csprojResolveAssemblyReference.cache
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Core\obj\Debug\NetProject.Core.dll
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Core\obj\Debug\NetProject.Core.pdb
+C:\Users\feyyaz.acet\Documents\Visual Studio 2013\Projects\NetProject\NetProject.Core\obj\Debug\NetProject.Core.Migrations.sdfasdf.resources
+C:\Users\feyyaz.acet\Documents\Visual Studio 2013\Projects\NetProject\NetProject.Core\obj\Debug\NetProject.Core.csproj.GenerateResource.Cache
