@@ -11,3 +11,20 @@ C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject
 C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Repository\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Repository\obj\Debug\NetProject.Repository.dll
 C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Repository\obj\Debug\NetProject.Repository.pdb
+C:\NetProject\NetProject.Repository\bin\Debug\NetProject.Repository.dll
+C:\NetProject\NetProject.Repository\bin\Debug\NetProject.Repository.pdb
+C:\NetProject\NetProject.Repository\bin\Debug\EntityFramework.dll
+C:\NetProject\NetProject.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\NetProject\NetProject.Repository\bin\Debug\NetProject.Core.dll
+C:\NetProject\NetProject.Repository\bin\Debug\NetProject.Domain.dll
+C:\NetProject\NetProject.Repository\bin\Debug\NetProject.Core.pdb
+C:\NetProject\NetProject.Repository\bin\Debug\NetProject.Domain.pdb
+C:\NetProject\NetProject.Repository\bin\Debug\EntityFramework.xml
+C:\NetProject\NetProject.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\NetProject\NetProject.Repository\obj\Debug\NetProject.Repository.csprojResolveAssemblyReference.cache
+C:\NetProject\NetProject.Repository\obj\Debug\NetProject.Repository.dll
+C:\NetProject\NetProject.Repository\obj\Debug\NetProject.Repository.pdb
+C:\NetProject\NetProject.Repository\bin\Debug\Castle.Core.dll
+C:\NetProject\NetProject.Repository\bin\Debug\Castle.Windsor.dll
+C:\NetProject\NetProject.Repository\bin\Debug\Castle.Core.xml
+C:\NetProject\NetProject.Repository\bin\Debug\Castle.Windsor.xml

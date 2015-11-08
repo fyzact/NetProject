@@ -1,4 +1,6 @@
-﻿using System;
+﻿using NetProject.Mvc.Infrastructure.Factory;
+using NetProject.Mvc.Infrastructure.Ioc;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -13,6 +15,11 @@ namespace NetProject.Mvc
         {
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
+
+            var container = Container.WindsorContainer;
+
+            var controllerFactory = new WindsorControllerFactory(container);
+            ControllerBuilder.Current.SetControllerFactory(controllerFactory);
         }
     }
 }

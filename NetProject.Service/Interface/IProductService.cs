@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace NetProject.Service.Interface
 {
     [ServiceContract]
-     interface IProductService
+    public interface IProductService
     {
        IList<ProductItemDto> GetProducts();
     }

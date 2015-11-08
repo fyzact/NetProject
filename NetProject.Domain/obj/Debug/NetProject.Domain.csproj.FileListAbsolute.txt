@@ -3,3 +3,8 @@ C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject
 C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Domain\obj\Debug\NetProject.Domain.dll
 C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Domain\obj\Debug\NetProject.Domain.pdb
 C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Domain\obj\Debug\NetProject.Domain.csprojResolveAssemblyReference.cache
+C:\NetProject\NetProject.Domain\bin\Debug\NetProject.Domain.dll
+C:\NetProject\NetProject.Domain\bin\Debug\NetProject.Domain.pdb
+C:\NetProject\NetProject.Domain\obj\Debug\NetProject.Domain.csprojResolveAssemblyReference.cache
+C:\NetProject\NetProject.Domain\obj\Debug\NetProject.Domain.dll
+C:\NetProject\NetProject.Domain\obj\Debug\NetProject.Domain.pdb

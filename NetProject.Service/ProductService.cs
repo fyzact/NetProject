@@ -16,9 +16,9 @@ namespace NetProject.Service
     public class ProductService : IProductService
     {
         IRepository<Product> _productRepository;
-        public ProductService()
+        public ProductService(IRepository<Product> productRepository)
         {
-            _productRepository = new Repository.Repository<Product>();
+            _productRepository = productRepository;
         }
 
         public IList<ProductItemDto> GetProducts()

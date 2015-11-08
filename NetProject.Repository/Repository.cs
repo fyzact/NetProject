@@ -13,10 +13,10 @@ namespace NetProject.Repository
     public class Repository<TEntity> : IRepository<TEntity> where TEntity : BaseEntity
     {
 
-        private readonly NetProjectContext _dbContext;
-        public Repository()
+        private readonly DbContext _dbContext;
+        public Repository(DbContext dbContex)
         {
-            _dbContext = new NetProjectContext();
+            _dbContext = dbContex;
         }
 
         public void Add(TEntity entity)
