@@ -15,10 +15,14 @@ namespace NetProject.Core
     {
         public NetProjectContext()
 <<<<<<< HEAD
+<<<<<<< HEAD
             : base("server=.;initial catalog=DbNetProject; Trusted_Connection=true; MultipleActiveResultSets=True")
 =======
             : base("NetProjectConn")
 >>>>>>> dccc99685e4292ffa4d3a031e87be19b68dfbf6b
+=======
+            : base("NetProjectConn")
+>>>>>>> parent of eae2cc6... Imlemented Castle windsor
             
             //base("server=.;initial catalog=DbNetProject; Trusted_Connection=true; MultipleActiveResultSets=True")
 

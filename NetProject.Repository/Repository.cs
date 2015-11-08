@@ -14,6 +14,7 @@ namespace NetProject.Repository
     {
 
 <<<<<<< HEAD
+<<<<<<< HEAD
         private readonly DbContext _dbContext;
         public Repository(DbContext dbContex)
         {
@@ -24,6 +25,12 @@ namespace NetProject.Repository
         {
             _dbContext = new NetProjectContext();
 >>>>>>> dccc99685e4292ffa4d3a031e87be19b68dfbf6b
+=======
+        private readonly NetProjectContext _dbContext;
+        public Repository()
+        {
+            _dbContext = new NetProjectContext();
+>>>>>>> parent of eae2cc6... Imlemented Castle windsor
         }
 
         public void Add(TEntity entity)
