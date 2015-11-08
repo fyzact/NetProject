@@ -30,12 +30,15 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Reference Include="Castle.Core">
       <HintPath>..\packages\Castle.Core.3.3.3\lib\net45\Castle.Core.dll</HintPath>
     </Reference>
     <Reference Include="Castle.Windsor">
       <HintPath>..\packages\Castle.Windsor.3.3.0\lib\net45\Castle.Windsor.dll</HintPath>
     </Reference>
+=======
+>>>>>>> dccc99685e4292ffa4d3a031e87be19b68dfbf6b
     <Reference Include="EntityFramework">
       <HintPath>..\NetProject.Core\bin\Debug\EntityFramework.dll</HintPath>
     </Reference>
@@ -51,7 +54,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="Infrastructure\Installers\RepositoryInstaller.cs" />
+=======
+>>>>>>> dccc99685e4292ffa4d3a031e87be19b68dfbf6b
     <Compile Include="IRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository.cs" />
@@ -66,9 +72,12 @@
       <Name>NetProject.Domain</Name>
     </ProjectReference>
   </ItemGroup>
+<<<<<<< HEAD
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+=======
+>>>>>>> dccc99685e4292ffa4d3a031e87be19b68dfbf6b
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

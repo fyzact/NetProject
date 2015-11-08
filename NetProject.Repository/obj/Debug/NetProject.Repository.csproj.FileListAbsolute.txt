@@ -11,6 +11,7 @@ C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject
 C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Repository\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Repository\obj\Debug\NetProject.Repository.dll
 C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Repository\obj\Debug\NetProject.Repository.pdb
+<<<<<<< HEAD
 C:\NetProject\NetProject.Repository\bin\Debug\NetProject.Repository.dll
 C:\NetProject\NetProject.Repository\bin\Debug\NetProject.Repository.pdb
 C:\NetProject\NetProject.Repository\bin\Debug\EntityFramework.dll
@@ -28,3 +29,5 @@ C:\NetProject\NetProject.Repository\bin\Debug\Castle.Core.dll
 C:\NetProject\NetProject.Repository\bin\Debug\Castle.Windsor.dll
 C:\NetProject\NetProject.Repository\bin\Debug\Castle.Core.xml
 C:\NetProject\NetProject.Repository\bin\Debug\Castle.Windsor.xml
+=======
+>>>>>>> dccc99685e4292ffa4d3a031e87be19b68dfbf6b

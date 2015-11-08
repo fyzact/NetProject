@@ -14,7 +14,11 @@ namespace NetProject.Core
     public class NetProjectContext : DbContext
     {
         public NetProjectContext()
+<<<<<<< HEAD
             : base("server=.;initial catalog=DbNetProject; Trusted_Connection=true; MultipleActiveResultSets=True")
+=======
+            : base("NetProjectConn")
+>>>>>>> dccc99685e4292ffa4d3a031e87be19b68dfbf6b
             
             //base("server=.;initial catalog=DbNetProject; Trusted_Connection=true; MultipleActiveResultSets=True")
 
