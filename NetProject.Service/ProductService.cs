@@ -15,10 +15,17 @@ namespace NetProject.Service
 
     public class ProductService : IProductService
     {
+<<<<<<< HEAD
         IRepository<ProductEntity> _productRepository;
         public ProductService(IRepository<ProductEntity> productRepository)
         {
             _productRepository = productRepository;
+=======
+        IRepository<Product> _productRepository;
+        public ProductService()
+        {
+            _productRepository = new Repository.Repository<Product>();
+>>>>>>> origin/master
         }
 
         public IList<ProductItemDto> GetProducts()

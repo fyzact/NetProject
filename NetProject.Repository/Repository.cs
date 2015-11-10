@@ -13,10 +13,30 @@ namespace NetProject.Repository
     public class Repository<TEntity> : IRepository<TEntity> where TEntity : BaseEntity
     {
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+        private readonly DbContext _dbContext;
+        public Repository(DbContext dbContex)
+        {
+            _dbContext = dbContex;
+=======
         private readonly NetProjectContext _dbContext;
         public Repository()
         {
             _dbContext = new NetProjectContext();
+>>>>>>> dccc99685e4292ffa4d3a031e87be19b68dfbf6b
+=======
+>>>>>>> origin/master
+        private readonly NetProjectContext _dbContext;
+        public Repository()
+        {
+            _dbContext = new NetProjectContext();
+<<<<<<< HEAD
+=======
+>>>>>>> parent of eae2cc6... Imlemented Castle windsor
+>>>>>>> origin/master
         }
 
         public void Add(TEntity entity)

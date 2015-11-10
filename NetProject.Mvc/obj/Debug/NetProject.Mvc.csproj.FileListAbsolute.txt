@@ -16,6 +16,7 @@ C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject
 C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Mvc\obj\Debug\NetProject.Mvc.csprojResolveAssemblyReference.cache
 C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Mvc\obj\Debug\NetProject.Mvc.dll
 C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Mvc\obj\Debug\NetProject.Mvc.pdb
+<<<<<<< HEAD
 C:\netproject\NetProject.Mvc\bin\NetProject.Mvc.dll.config
 C:\netproject\NetProject.Mvc\bin\NetProject.Mvc.dll
 C:\netproject\NetProject.Mvc\bin\NetProject.Mvc.pdb
@@ -48,3 +49,43 @@ C:\netproject\NetProject.Mvc\bin\NetProject.Repository.pdb
 C:\netproject\NetProject.Mvc\bin\NetProject.Domain.pdb
 C:\netproject\NetProject.Mvc\bin\EntityFramework.xml
 C:\netproject\NetProject.Mvc\bin\NetProject.Core.pdb
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+C:\NetProject\NetProject.Mvc\obj\Debug\NetProject.Mvc.csprojResolveAssemblyReference.cache
+C:\NetProject\NetProject.Mvc\obj\Debug\NetProject.Mvc.dll
+C:\NetProject\NetProject.Mvc\obj\Debug\NetProject.Mvc.pdb
+C:\NetProject\NetProject.Mvc\bin\NetProject.Mvc.dll.config
+C:\NetProject\NetProject.Mvc\bin\NetProject.Mvc.dll
+C:\NetProject\NetProject.Mvc\bin\NetProject.Mvc.pdb
+C:\NetProject\NetProject.Mvc\bin\NetProject.Service.dll
+C:\NetProject\NetProject.Mvc\bin\System.Web.Helpers.dll
+C:\NetProject\NetProject.Mvc\bin\System.Web.Mvc.dll
+C:\NetProject\NetProject.Mvc\bin\System.Web.Razor.dll
+C:\NetProject\NetProject.Mvc\bin\System.Web.Webpages.Deployment.dll
+C:\NetProject\NetProject.Mvc\bin\System.Web.Webpages.dll
+C:\NetProject\NetProject.Mvc\bin\System.Web.Webpages.Razor.dll
+C:\NetProject\NetProject.Mvc\bin\NetProject.Repository.dll
+C:\NetProject\NetProject.Mvc\bin\NetProject.Domain.dll
+C:\NetProject\NetProject.Mvc\bin\EntityFramework.dll
+C:\NetProject\NetProject.Mvc\bin\NetProject.Core.dll
+C:\NetProject\NetProject.Mvc\bin\NetProject.Service.pdb
+C:\NetProject\NetProject.Mvc\bin\System.Web.Razor.xml
+C:\NetProject\NetProject.Mvc\bin\System.Web.Webpages.xml
+C:\NetProject\NetProject.Mvc\bin\System.Web.Webpages.Deployment.xml
+C:\NetProject\NetProject.Mvc\bin\System.Web.Webpages.Razor.xml
+C:\NetProject\NetProject.Mvc\bin\System.Web.Helpers.xml
+C:\NetProject\NetProject.Mvc\bin\System.Web.Mvc.xml
+C:\NetProject\NetProject.Mvc\bin\NetProject.Repository.pdb
+C:\NetProject\NetProject.Mvc\bin\NetProject.Domain.pdb
+C:\NetProject\NetProject.Mvc\bin\EntityFramework.xml
+C:\NetProject\NetProject.Mvc\bin\NetProject.Core.pdb
+C:\NetProject\NetProject.Mvc\bin\Castle.Core.dll
+C:\NetProject\NetProject.Mvc\bin\Castle.Windsor.dll
+C:\NetProject\NetProject.Mvc\bin\Castle.Core.xml
+C:\NetProject\NetProject.Mvc\bin\Castle.Windsor.xml
+=======
+>>>>>>> dccc99685e4292ffa4d3a031e87be19b68dfbf6b
+=======
+>>>>>>> parent of eae2cc6... Imlemented Castle windsor
+>>>>>>> origin/master

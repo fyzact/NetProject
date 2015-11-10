@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace NetProject.Domain
 {
+<<<<<<< HEAD
     public  class BaseEntity
+=======
+    public class BaseEntity
+>>>>>>> origin/master
     {
 
         public DateTime? InsertedDate { get; set; }
