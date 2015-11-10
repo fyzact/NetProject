@@ -1,0 +1,50 @@
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Mvc\bin\NetProject.Mvc.dll.config
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Mvc\bin\NetProject.Mvc.dll
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Mvc\bin\NetProject.Mvc.pdb
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Mvc\bin\System.Web.Helpers.dll
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Mvc\bin\System.Web.Mvc.dll
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Mvc\bin\System.Web.Razor.dll
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Mvc\bin\System.Web.Webpages.Deployment.dll
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Mvc\bin\System.Web.Webpages.dll
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Mvc\bin\System.Web.Webpages.Razor.dll
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Mvc\bin\System.Web.Razor.xml
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Mvc\bin\System.Web.Webpages.xml
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Mvc\bin\System.Web.Webpages.Deployment.xml
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Mvc\bin\System.Web.Webpages.Razor.xml
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Mvc\bin\System.Web.Helpers.xml
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Mvc\bin\System.Web.Mvc.xml
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Mvc\obj\Debug\NetProject.Mvc.csprojResolveAssemblyReference.cache
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Mvc\obj\Debug\NetProject.Mvc.dll
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Mvc\obj\Debug\NetProject.Mvc.pdb
+C:\netproject\NetProject.Mvc\bin\NetProject.Mvc.dll.config
+C:\netproject\NetProject.Mvc\bin\NetProject.Mvc.dll
+C:\netproject\NetProject.Mvc\bin\NetProject.Mvc.pdb
+C:\netproject\NetProject.Mvc\bin\System.Web.Helpers.dll
+C:\netproject\NetProject.Mvc\bin\System.Web.Mvc.dll
+C:\netproject\NetProject.Mvc\bin\System.Web.Razor.dll
+C:\netproject\NetProject.Mvc\bin\System.Web.Webpages.Deployment.dll
+C:\netproject\NetProject.Mvc\bin\System.Web.Webpages.dll
+C:\netproject\NetProject.Mvc\bin\System.Web.Webpages.Razor.dll
+C:\netproject\NetProject.Mvc\bin\System.Web.Razor.xml
+C:\netproject\NetProject.Mvc\bin\System.Web.Webpages.xml
+C:\netproject\NetProject.Mvc\bin\System.Web.Webpages.Deployment.xml
+C:\netproject\NetProject.Mvc\bin\System.Web.Webpages.Razor.xml
+C:\netproject\NetProject.Mvc\bin\System.Web.Helpers.xml
+C:\netproject\NetProject.Mvc\bin\System.Web.Mvc.xml
+C:\netproject\NetProject.Mvc\obj\Debug\NetProject.Mvc.csprojResolveAssemblyReference.cache
+C:\netproject\NetProject.Mvc\obj\Debug\NetProject.Mvc.dll
+C:\netproject\NetProject.Mvc\obj\Debug\NetProject.Mvc.pdb
+C:\netproject\NetProject.Mvc\bin\Castle.Core.dll
+C:\netproject\NetProject.Mvc\bin\Castle.Windsor.dll
+C:\netproject\NetProject.Mvc\bin\Castle.Core.xml
+C:\netproject\NetProject.Mvc\bin\Castle.Windsor.xml
+C:\netproject\NetProject.Mvc\bin\NetProject.Service.dll
+C:\netproject\NetProject.Mvc\bin\NetProject.Repository.dll
+C:\netproject\NetProject.Mvc\bin\NetProject.Domain.dll
+C:\netproject\NetProject.Mvc\bin\EntityFramework.dll
+C:\netproject\NetProject.Mvc\bin\NetProject.Core.dll
+C:\netproject\NetProject.Mvc\bin\NetProject.Service.pdb
+C:\netproject\NetProject.Mvc\bin\NetProject.Repository.pdb
+C:\netproject\NetProject.Mvc\bin\NetProject.Domain.pdb
+C:\netproject\NetProject.Mvc\bin\EntityFramework.xml
+C:\netproject\NetProject.Mvc\bin\NetProject.Core.pdb

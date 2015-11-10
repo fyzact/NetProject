@@ -1,0 +1,10 @@
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Domain\bin\Debug\NetProject.Domain.dll
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Domain\bin\Debug\NetProject.Domain.pdb
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Domain\obj\Debug\NetProject.Domain.dll
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Domain\obj\Debug\NetProject.Domain.pdb
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Domain\obj\Debug\NetProject.Domain.csprojResolveAssemblyReference.cache
+C:\netproject\NetProject.Domain\bin\Debug\NetProject.Domain.dll
+C:\netproject\NetProject.Domain\bin\Debug\NetProject.Domain.pdb
+C:\netproject\NetProject.Domain\obj\Debug\NetProject.Domain.csprojResolveAssemblyReference.cache
+C:\netproject\NetProject.Domain\obj\Debug\NetProject.Domain.dll
+C:\netproject\NetProject.Domain\obj\Debug\NetProject.Domain.pdb

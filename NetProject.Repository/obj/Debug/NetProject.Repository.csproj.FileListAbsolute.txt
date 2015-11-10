@@ -1,0 +1,30 @@
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Repository\obj\Debug\NetProject.Repository.csprojResolveAssemblyReference.cache
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Repository\bin\Debug\NetProject.Repository.dll
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Repository\bin\Debug\NetProject.Repository.pdb
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Repository\bin\Debug\EntityFramework.dll
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Repository\bin\Debug\NetProject.Core.dll
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Repository\bin\Debug\NetProject.Domain.dll
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Repository\bin\Debug\NetProject.Core.pdb
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Repository\bin\Debug\NetProject.Domain.pdb
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Repository\bin\Debug\EntityFramework.xml
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Repository\obj\Debug\NetProject.Repository.dll
+C:\Users\feyyaz.acet\documents\visual studio 2013\Projects\NetProject\NetProject.Repository\obj\Debug\NetProject.Repository.pdb
+C:\netproject\NetProject.Repository\bin\Debug\NetProject.Repository.dll
+C:\netproject\NetProject.Repository\bin\Debug\NetProject.Repository.pdb
+C:\netproject\NetProject.Repository\bin\Debug\EntityFramework.dll
+C:\netproject\NetProject.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\netproject\NetProject.Repository\bin\Debug\NetProject.Core.dll
+C:\netproject\NetProject.Repository\bin\Debug\NetProject.Domain.dll
+C:\netproject\NetProject.Repository\bin\Debug\NetProject.Core.pdb
+C:\netproject\NetProject.Repository\bin\Debug\NetProject.Domain.pdb
+C:\netproject\NetProject.Repository\bin\Debug\EntityFramework.xml
+C:\netproject\NetProject.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\netproject\NetProject.Repository\obj\Debug\NetProject.Repository.csprojResolveAssemblyReference.cache
+C:\netproject\NetProject.Repository\obj\Debug\NetProject.Repository.dll
+C:\netproject\NetProject.Repository\obj\Debug\NetProject.Repository.pdb
+C:\NetProject\NetProject.Repository\bin\Debug\Castle.Core.dll
+C:\NetProject\NetProject.Repository\bin\Debug\Castle.Windsor.dll
+C:\NetProject\NetProject.Repository\bin\Debug\Castle.Core.xml
+C:\NetProject\NetProject.Repository\bin\Debug\Castle.Windsor.xml
