@@ -1,2 +1,2 @@
 # NetProject
-.Net Enterprise Architecture that developed as n tier architecture
+.Net Enterprise Architecture that developed as N tier architecture
